@@ -1,0 +1,10 @@
+C:\Users\Kerem\Documents\Projeler\Pizza_Siparis_Ekrani\BesirProje\bin\Debug\BesirProje.exe.config
+C:\Users\Kerem\Documents\Projeler\Pizza_Siparis_Ekrani\BesirProje\bin\Debug\BesirProje.exe
+C:\Users\Kerem\Documents\Projeler\Pizza_Siparis_Ekrani\BesirProje\bin\Debug\BesirProje.pdb
+C:\Users\Kerem\Documents\Projeler\Pizza_Siparis_Ekrani\BesirProje\obj\Debug\BesirProje.csproj.AssemblyReference.cache
+C:\Users\Kerem\Documents\Projeler\Pizza_Siparis_Ekrani\BesirProje\obj\Debug\BesirProje.Form1.resources
+C:\Users\Kerem\Documents\Projeler\Pizza_Siparis_Ekrani\BesirProje\obj\Debug\BesirProje.Properties.Resources.resources
+C:\Users\Kerem\Documents\Projeler\Pizza_Siparis_Ekrani\BesirProje\obj\Debug\BesirProje.csproj.GenerateResource.cache
+C:\Users\Kerem\Documents\Projeler\Pizza_Siparis_Ekrani\BesirProje\obj\Debug\BesirProje.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\Documents\Projeler\Pizza_Siparis_Ekrani\BesirProje\obj\Debug\BesirProje.exe
+C:\Users\Kerem\Documents\Projeler\Pizza_Siparis_Ekrani\BesirProje\obj\Debug\BesirProje.pdb
